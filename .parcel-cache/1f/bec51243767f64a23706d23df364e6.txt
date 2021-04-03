@@ -1,4 +1,4 @@
-22174
+22182
 124C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\timers-browserify\README.md121436361000000000 0
 130C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-svgo\node_modules\postcss132619167310031685 1
 136C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\highlight.js\lib\languages\capnproto.js121436361000000000 0
@@ -59,7 +59,7 @@
 110C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\is-resolvable132619167235719254 1
 133C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\http-proxy-middleware\dist\errors.js121436361000000000 0
 153C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-normalize-url\node_modules\has-flag\package.json131593945070000000 0
-88C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist132619188295140884 1
+88C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist132619218921224896 1
 109C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\levn\LICENSE130732672380000000 0
 143C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-ordered-values\dist\rules\animation.js121436361000000000 0
 146C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\stylehacks\node_modules\color-name\.eslintrc.json131174093250000000 0
@@ -324,7 +324,7 @@
 150C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-merge-rules\node_modules\postcss\lib\parse.js121436361000000000 0
 124C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\har-schema\lib\creator.json131370181680000000 0
 143C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\csso\node_modules\css-tree\lib\walker\index.js121436361000000000 0
-104C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\src\js\controller.js132619188288155716 0
+104C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\src\js\controller.js132619218917866776 0
 112C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\lodash\fp\eq.js121436361000000000 0
 161C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-minify-selectors\node_modules\color-convert\package.json121436361000000000 0
 150C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\jsdom\lib\jsdom\living\nodes\HTMLAudioElement-impl.js121436361000000000 0
@@ -838,7 +838,7 @@
 115C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\node-releases\data132619167287497794 1
 142C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\es-abstract\5\AbstractRelationalComparison.js121436361000000000 0
 153C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-ordered-values\node_modules\postcss\package.json121436361000000000 0
-111C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.1206e35b.css.map132619188294890850 0
+111C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.1206e35b.css.map132619218920914898 0
 145C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\@babel\highlight\node_modules\chalk\package.json121436361000000000 0
 135C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\uncss\node_modules\postcss\lib\list.js121436361000000000 0
 153C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-svgo\node_modules\postcss-value-parser\README.md121436361000000000 0
@@ -5758,7 +5758,7 @@
 123C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\es-abstract\2020\ToInt8.js121436361000000000 0
 173C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\snapdragon\node_modules\is-data-descriptor\node_modules\kind-of\package.json131394324680000000 0
 161C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-discard-duplicates\node_modules\postcss\lib\warn-once.js121436361000000000 0
-107C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\icons.c4b52749.svg132619188292074376 0
+107C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\icons.c4b52749.svg132619218920351353 0
 161C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\@parcel\fs-write-stream-atomic\fixtures\thread-id-test-worker.js121436361000000000 0
 162C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\stream-http\node_modules\readable-stream\lib\_stream_transform.js121436361000000000 0
 138C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\jsdom\lib\jsdom\living\generated\Event.js121436361000000000 0
@@ -8625,6 +8625,7 @@
 150C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-selector-parser\dist\__tests__\combinators.js121436361000000000 0
 142C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\caniuse-lite\data\features\text-decoration.js121436361000000000 0
 151C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-minify-font-values\node_modules\chalk\index.js121436361000000000 0
+107C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\icons.d4a14980.svg132619218920241358 0
 146C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-selector-parser\dist\__tests__\escapes.js121436361000000000 0
 115C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\base64-js\index.js121436361000000000 0
 141C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\postcss-selector-parser\dist\__tests__\id.js121436361000000000 0
@@ -13393,6 +13394,7 @@
 116C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\ajv\lib\dot\ref.jst121436361000000000 0
 118C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\lodash.uniq\README.md131155832520000000 0
 118C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\lodash.sortby\LICENSE131155832240000000 0
+106C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.a35099d2.js132619191122782274 0
 123C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\lodash.sortby\package.json131155832850000000 0
 124C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\lodash.memoize\package.json131155831940000000 0
 126C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\buffer-xor\test\fixtures.json130876314660000000 0
@@ -16656,7 +16658,7 @@
 131C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\es-abstract\helpers\isCodePoint.js121436361000000000 0
 128C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\es-abstract\helpers\isFinite.js121436361000000000 0
 124C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\core-js\stable\math\sign.js121436361000000000 0
-107C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.1206e35b.css132619188294752791 0
+107C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.1206e35b.css132619218920814860 0
 138C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\es-abstract\helpers\isLeadingSurrogate.js121436361000000000 0
 130C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\es-abstract\helpers\isPrefixOf.js121436361000000000 0
 134C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\es-abstract\helpers\maxSafeInteger.js121436361000000000 0
@@ -20133,7 +20135,7 @@
 138C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\@parcel\transformer-posthtml\node_modules132619167355450531 1
 130C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\babel-plugin-polyfill-corejs2\lib132619167249615004 1
 139C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\babel-plugin-polyfill-corejs2\package.json121436361000000000 0
-110C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.250b04c7.js.map132619188295100872 0
+110C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.250b04c7.js.map132619218921194878 0
 136C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\babel-plugin-polyfill-corejs2\README.md121436361000000000 0
 165C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\babel-plugin-polyfill-corejs2\lib\add-platform-specific-polyfills.js121436361000000000 0
 154C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\babel-plugin-polyfill-corejs2\lib\built-in-definitions.js121436361000000000 0
@@ -22169,7 +22171,13 @@
 111C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\.bin\uncss.ps1132619167358140755 0
 106C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\.bin\uuid132619167358450821 0
 110C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\node_modules\.bin\uuid.cmd132619167358460793 0
-109C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\favicon.80934ffe.png132619188292064350 0
-106C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.250b04c7.js132619188294870836 0
-99C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.html132619188294742573 0
-106C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\logo.5d271741.png132619188292124365 0
+109C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\favicon.1dff14d4.png132619191120592085 0
+109C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\favicon.80934ffe.png132619218920341377 0
+107C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\icons.a9d0c596.svg132619191120652080 0
+106C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.250b04c7.js132619218920964915 0
+107C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.32800ca4.css132619191122762283 0
+111C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.32800ca4.css.map132619191122942260 0
+110C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.a35099d2.js.map132619191122962251 0
+99C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\index.html132619218920824857 0
+106C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\logo.5d271741.png132619218920361377 0
+106C:\Users\Acer\Desktop\STUDY\JS\complete-javascript-course-master\18-forkify\Forkify\dist\logo.7f95f77b.png132619191120642098 0
