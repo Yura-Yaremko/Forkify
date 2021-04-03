@@ -6,56 +6,59 @@ import 'regenerator-runtime/runtime'
 const recipeContainer = document.querySelector('.recipe');
 
 const timeout = function (s) {
-    return new Promise(function (_, reject) {
-        setTimeout(function () {
-            reject(new Error(`Request took too long! Timeout after ${s} second`));
-        }, s * 1000);
-    });
+  return new Promise(function (_, reject) {
+    setTimeout(function () {
+      reject(new Error(`Request took too long! Timeout after ${s} second`));
+    }, s * 1000);
+  });
 };
 
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
 const renderSpinner = function (parentEl) {
-    const markup = `
+  const markup = `
     <div class="spinner">
         <svg>
             <use href="${icons}#icon-loader"></use>
         </svg>
     </div>
     `
-    parentEl.innerHTML = ''
-    parentEl.insertAdjacentHTML('afterbegin', markup)
+  parentEl.innerHTML = ''
+  parentEl.insertAdjacentHTML('afterbegin', markup)
 }
 
 
 const showRecipe = async function () {
-    try {
-        // 1) Loading recipe
-        renderSpinner(recipeContainer)
+  try {
+    const id = window.location.hash.slice(1)
 
-        // const res = await fetch('https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886')
-        const res = await fetch('https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bcc40')
+    if (!id) return
 
-        const data = await res.json()
+    // 1) Loading recipe
+    renderSpinner(recipeContainer)
 
-        if (!res.ok) throw new Error(`${data.message} (${res.status})`)
+    const res = await fetch(`https://forkify-api.herokuapp.com/api/v2/recipes/${id}`)
 
-        let { recipe } = data.data
-        recipe = {
-            id: recipe.id,
-            title: recipe.title,
-            publisher: recipe.publisher,
-            sourceUrl: recipe.source_url,
-            image: recipe.image_url,
-            servings: recipe.servings,
-            cookingTime: recipe.cooking_time,
-            ingredients: recipe.ingredients
-        }
-        console.log(recipe);
+    const data = await res.json()
 
-        // 2) Rendering recipe
-        const markup = ` 
+    if (!res.ok) throw new Error(`${data.message} (${res.status})`)
+
+    let { recipe } = data.data
+    recipe = {
+      id: recipe.id,
+      title: recipe.title,
+      publisher: recipe.publisher,
+      sourceUrl: recipe.source_url,
+      image: recipe.image_url,
+      servings: recipe.servings,
+      cookingTime: recipe.cooking_time,
+      ingredients: recipe.ingredients
+    }
+    console.log(recipe);
+
+    // 2) Rendering recipe
+    const markup = ` 
         <figure class="recipe__fig">
             <img src="${recipe.image}" alt="${recipe.title}" class="recipe__img" />
             <h1 class="recipe__title">
@@ -108,7 +111,7 @@ const showRecipe = async function () {
         <h2 class="heading--2">Recipe ingredients</h2>
         <ul class="recipe__ingredient-list">
         ${recipe.ingredients.map(ing => {
-            return `
+      return `
             <li class="recipe__ingredient">
                 <svg class="recipe__icon">
                 <use href="${icons}#icon-check"></use>
@@ -120,7 +123,7 @@ const showRecipe = async function () {
                 </div>
             </li>
             `
-        }).join('')}
+    }).join('')}
 
       </div>
 
@@ -142,10 +145,16 @@ const showRecipe = async function () {
           </svg>
         </a>
       </div>`
-        recipeContainer.innerHTML = ''
-        recipeContainer.insertAdjacentHTML('afterbegin', markup)
-    } catch (err) {
-        alert(err)
-    }
+    recipeContainer.innerHTML = ''
+    recipeContainer.insertAdjacentHTML('afterbegin', markup)
+  } catch (err) {
+    alert(err)
+  }
 }
-showRecipe()
+// showRecipe()
+
+// ['hashchange', 'load'].array.forEach(ev => window.addEventListener(ev, showRecipe));
+
+window.addEventListener('hashchange', showRecipe)
+window.addEventListener('load', showRecipe)
+
